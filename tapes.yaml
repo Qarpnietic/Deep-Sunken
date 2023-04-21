@@ -1,0 +1,4197 @@
+- identifier: blank
+  name: Blank Tape
+  source: ./source/original_audio/blank.ogg
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 100
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, true, false, false, false]  # outpost, city, research, military, mine
+  no_of_uses: 12
+  buffs: False
+  buff_multiplier: 0.5
+
+- identifier: LayerCake
+  name: Layer Cake
+  source:
+    url: https://www.youtube.com/watch?v=y8_AaQTG4Hw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 10
+  buffs: strengthen
+  buff_multiplier: 0.25
+  
+- identifier: Price
+  name: Price
+  source:
+    url: https://www.youtube.com/watch?v=V8mNJE2iIN0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 250
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 10
+  buffs: strengthen
+  buff_multiplier: 0.25
+  
+- identifier: Mudraptor1
+  name: dj smokey - legalizenukes **NUKE RADIO EXCLUSIVE**
+  source:
+    url: https://www.youtube.com/watch?v=mHPx-nPcMJk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: psychosis
+  buff_multiplier: 0.30
+  
+- identifier: Mudraptor2
+  name: Awful Pretty
+  source:
+    url: https://www.youtube.com/watch?v=spvmy02-PSk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 800
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 7
+  buffs: strengthen
+  buff_multiplier: 0.40
+  
+- identifier: Mudraptor3
+  name: We've Got Hostiles
+  source:
+    url: https://www.youtube.com/watch?v=3UiKY_e3qDQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 800
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: strengthen
+  buff_multiplier: 0.40
+  
+- identifier: Mudraptor4
+  name: Horizon
+  source:
+    url: https://www.youtube.com/watch?v=cuN82OBSD9s
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 400
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.5
+  
+- identifier: InTheHouseInAHeartbeat
+  name: In the House, in a Heartbeat
+  source:
+    url: https://www.youtube.com/watch?v=ST2H8FWDvEA
+    start: 00:00:00
+    end: -1
+    volume: 2
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.5
+  
+- identifier: MassDestruction
+  name: Mass Destruction
+  source:
+    url: https://www.youtube.com/watch?v=6jFaoLrLzd4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+  
+- identifier: BurnMyBread
+  name: Burn My Dread
+  source:
+    url: https://www.youtube.com/watch?v=bNvjrEoVoH0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+  
+- identifier: ReachingOutStars
+  name: When the Moon's Reaching Out Stars
+  source:
+    url: https://www.youtube.com/watch?v=3ko-0jUzF4U
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+  
+- identifier: Iwatodai
+  name: Iwatodai Dorm
+  source:
+    url: https://www.youtube.com/watch?v=e2Gyaqf7EoU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 501
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+  
+- identifier: NicoShop
+  name: Any Special Orders?
+  source:
+    url: https://www.youtube.com/watch?v=wT0QU_07B78
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Django
+  name: Django Django
+  source:
+    url: https://www.youtube.com/watch?v=PfL5St7zmLA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Chronos1
+  name: Free Bird Guitar Solo
+  source: 
+    url: https://www.youtube.com/watch?v=3GSbJkU9Lmw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: ThisFire
+  name: This fffire
+  source:
+    url: https://www.youtube.com/watch?v=Shr_pHoGr2M
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Chronos2
+  name: Bandit Polka
+  source:
+    url: https://www.youtube.com/watch?v=j_podzD4cSA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Chronos3
+  name: S.T.A.L.K.E.R. Clear Sky OST - Combat Song 3
+  source:
+    url: https://www.youtube.com/watch?v=aapU0w2eMyk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Chronos4
+  name: God, Syria and Bashar
+  source:
+    url: https://www.youtube.com/watch?v=YgiyWGyJcIc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Farewell
+  name: Farewell of Slavianka (Tsarist)
+  source:
+    url: https://www.youtube.com/watch?v=G136GODWKhc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: AdrenalineGuitar
+  name: Diabolical Adrenaline Guitar 
+  source:
+    url: https://www.youtube.com/watch?v=o_fWurvOiUs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: RideTheFire
+  name: Ride The Fire!
+  source:
+    url: https://www.youtube.com/watch?v=wvwLTj57xPQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Chronos5
+  name: The Great Homeland
+  source:
+    url: https://www.youtube.com/watch?v=0iGHOaMEVQk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: BlackDog
+  name: Black Dog
+  source:
+    url: https://www.youtube.com/watch?v=yBuub4Xe1mw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: GangsterParadise
+  name: Gangster's Paradise
+  source:
+    url: https://www.youtube.com/watch?v=fPO76Jlnz6c
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: WithoutMe
+  name: Without Me
+  source:
+    url: https://www.youtube.com/watch?v=6iUeFGPWHz0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: SomebodyToLove
+  name: Somebody to Love
+  source:
+    url: https://www.youtube.com/watch?v=SrGSt5eDt9o
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: JohnnyB
+  name: Johnny B. Goode
+  source:
+    url: https://www.youtube.com/watch?v=Uf4rxCB4lys
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Polyphia1
+  name: O.D.
+  source:
+    url: https://www.youtube.com/watch?v=IHcAi2FPrTM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Polyphia2
+  name: G.O.A.T.
+  source:
+    url: https://www.youtube.com/watch?v=9_gkpYORQLU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: EthnkooboshuR
+  name: Ethnk ooboshuR
+  source:
+    url: https://www.youtube.com/watch?v=54JgL1YWxnM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: CaliforniaDream
+  name: California Dreamin'
+  source:
+    url: https://www.youtube.com/watch?v=oU6uUEwZ8FM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: HouseOf
+  name: House of The Rising Sun
+  source:
+    url: https://www.youtube.com/watch?v=VixdIglCZXk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: MisterSandman
+  name: Mister Sandman
+  source:
+    url: https://www.youtube.com/watch?v=PKnPrbPK5vA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Miserlou
+  name: Miserlou
+  source:
+    url: https://www.youtube.com/watch?v=sYjo__4COIo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: EveryoneWantsToBeMy
+  name: Enemy
+  source:
+    url: https://www.youtube.com/watch?v=tOZV4tIcE7k
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: WhoIsReadyFor
+  name: WHO'S READY FOR TOMORROW
+  source:
+    url: https://www.youtube.com/watch?v=jLXTBbMRxK8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Sinister
+  name: Mx. Sinister
+  source:
+    url: https://www.youtube.com/watch?v=D_lf3g4cWeg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: TakeMeOut
+  name: Take Me Out
+  source:
+    url: https://www.youtube.com/watch?v=d11xns8lE4w
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: NyaNya
+  name: Great Cat's Village
+  source:
+    url: https://www.youtube.com/watch?v=egPyqmDVQNo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: AssEaten
+  name: I Eat Ass
+  source:
+    url: https://www.youtube.com/watch?v=x8r5IrzeQMw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: MurderinTime
+  name: Trivia Murder Party Credits Song
+  source:
+    url: https://www.youtube.com/watch?v=xQWgAVCl8e4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: strengthen
+  buff_multiplier: 0.6
+
+- identifier: 116Underwater
+  name: 116 Underwater Prom Queens
+  source:
+    url: https://www.youtube.com/watch?v=7xl5kRE19y4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: psychosis
+  buff_multiplier: 0.3
+
+- identifier: 124Flouring
+  name: 124 Flouring With You
+  source:
+    url: https://www.youtube.com/watch?v=3YBe5w0gBTo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: psychosis
+  buff_multiplier: 0.3
+
+- identifier: 105Jawbreaker
+  name: 105 Jawbreaker
+  source:
+    url: https://www.youtube.com/watch?v=Cmj8FDbUdF8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: psychosis
+  buff_multiplier: 0.3
+
+- identifier: 086Worlds
+  name: 086 World's End Valentine
+  source:
+    url: https://www.youtube.com/watch?v=rlQd9qWKjLM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: psychosis
+  buff_multiplier: 0.3
+
+- identifier: 040You
+  name: 040 You Were Wrong. Go Back.
+  source:
+    url: https://www.youtube.com/watch?v=TyHXvJdyMUo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: psychosis
+  buff_multiplier: 0.3
+
+- identifier: 023The
+  name: 023 THE VENGEANCE OF THOSE FORGOTTEN IN DARKNESS
+  source:
+    url: https://www.youtube.com/watch?v=9hqWe-Fr4ko
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: psychosis
+  buff_multiplier: 0.3
+
+- identifier: Telepathic
+  name: Telepathic Humans
+  source:
+    url: https://www.youtube.com/watch?v=BBATLXunZ3Y
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: WereYou
+  name: Were You Foolin'
+  source:
+    url: https://www.youtube.com/watch?v=fI2u6mSd62s
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: BetterCallSaul
+  name: In Legal Trouble?
+  source:
+    url: https://www.youtube.com/watch?v=yBm4K00SMEk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: BetterCallJesse
+  name: Break Bad
+  source:
+    url: https://www.youtube.com/watch?v=ilfYnhXD-bE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: DevilsNeverCry
+  name: Devils Never Cry
+  source:
+    url: https://www.youtube.com/watch?v=xti_6Bzpa8A
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Cerberus
+  name: Cerberus
+  source:
+    url: https://www.youtube.com/watch?v=QE1ScwL4Jmo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: AndSoHaveI
+  name: The Time Has Come
+  source:
+    url: https://www.youtube.com/watch?v=cLBAFJWbd30
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: ShallNeverSurrender
+  name: Shall Never Surrender
+  source:
+    url: https://www.youtube.com/watch?v=xIIYt5lcq3A
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: DarkAge
+  name: Little Dark Age
+  source:
+    url: https://www.youtube.com/watch?v=ETEg-SB01QY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: SinSmelt
+  name: Sin-Smelted Scoriae
+  source:
+    url: https://www.youtube.com/watch?v=mwDpWBn_lZU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Deepwoken
+  name: The Deep Is Calling
+  source:
+    url: https://www.youtube.com/watch?v=NCl9W9lm2Xs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Ferriest
+  name: Ferry
+  source:
+    url: https://www.youtube.com/watch?v=zgQKTwbSzjE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: DevilMaySly
+  name: Devil May Sly
+  source:
+    url: https://www.youtube.com/watch?v=OyX6HnZW8Kc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: DoYou
+  name: Do You Want To
+  source:
+    url: https://www.youtube.com/watch?v=LjrKPlKW9Kk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Sharks
+  name: Sharks
+  source:
+    url: https://www.youtube.com/watch?v=E5HIDxITIYI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: NecoArc
+  name: Neco Arc Dilemma
+  source:
+    url: https://www.youtube.com/watch?v=XisJD8V1Rqw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: StoryOf
+  name: Story of Undertale
+  source:
+    url: https://www.youtube.com/watch?v=ZDOwJXQNII0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: NecoArcin
+  name: Super Idol
+  source:
+    url: https://www.youtube.com/watch?v=UD2VIge2gcE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 1
+  buffs: strengthen
+  buff_multiplier: 0.9
+- identifier: Ed101
+  name: “Morning Mood”
+  source:
+    url: https://www.youtube.com/watch?v=-rh8gMvzPw0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed102
+  name: The Blue Danube
+  source:
+    url: https://www.youtube.com/watch?v=_CTYymbbEL4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed103
+  name: Mobius
+  source:
+    url: https://www.youtube.com/watch?v=17prkqthez0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed104
+  name: Metro Exodus - In The House In A Heartbeat
+  source:
+    url: https://www.youtube.com/watch?v=jwEYaaafS04
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed105
+  name: Roadhouse
+  source:
+    url: https://www.youtube.com/watch?v=bXJnA281CdA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed106
+  name: Electric Worry
+  source:
+    url: https://www.youtube.com/watch?v=s4ABpbxIPFI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed107
+  name: Grounds For Divorce
+  source:
+    url: https://www.youtube.com/watch?v=jxczVhG0os8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed108
+  name: Midnight Tank
+  source:
+    url: https://www.youtube.com/watch?v=Io9HxJCvedI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed109
+  name: One Bad Tank
+  source:
+    url: https://www.youtube.com/watch?v=NZLsaaOPYLo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed110
+  name: Re Your Brains
+  source:
+    url: https://www.youtube.com/watch?v=8tmzjaN2DWc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed111
+  name: Midnight Ride
+  source:
+    url: https://www.youtube.com/watch?v=-ApJ5NsM6CI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed112
+  name: One Bad Man
+  source:
+    url: https://www.youtube.com/watch?v=iyH_NxJ86vs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed113
+  name: All I Want For Christmas
+  source:
+    url: https://www.youtube.com/watch?v=MrZdvW6BBkc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed114
+  name: The Saints Will Never Come
+  source:
+    url: https://www.youtube.com/watch?v=SWItVETu3qk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed115
+  name: Extraterrestrial Broadcast
+  source:
+    url: https://www.youtube.com/watch?v=nxtkW2CCv64
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed116
+  name: Wartrauma
+  source:
+    url: https://www.youtube.com/watch?v=Fpz7HzHUEZw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed117
+  name: Jack Attack
+  source:
+    url: https://www.youtube.com/watch?v=8P_uK1CVPTw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed118
+  name: Funky Town
+  source:
+    url: https://www.youtube.com/watch?v=poa_QBvtIBA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed119
+  name: Hey Ya!
+  source:
+    url: https://www.youtube.com/watch?v=LMaG_uOa440
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed120
+  name: Somebody That I Used to Know
+  source:
+    url: https://www.youtube.com/watch?v=_F8EBKb31ik
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed121
+  name: Send Me On My Way
+  source:
+    url: https://www.youtube.com/watch?v=WWQOkIY30Co
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed122
+  name: Billie Jean
+  source:
+    url: https://www.youtube.com/watch?v=TrE0LRjIYQY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed123
+  name: Life Could Be A Dream
+  source:
+    url: https://www.youtube.com/watch?v=u1C_QWt5-ZE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed124
+  name: Out of Touch
+  source:
+    url: https://www.youtube.com/watch?v=DCkJ5lGPqFs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed125
+  name: What a Fool Believes
+  source:
+    url: https://www.youtube.com/watch?v=o1BqHjNafRk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed126
+  name: Young At Heart
+  source:
+    url: https://www.youtube.com/watch?v=-TE5LJp1YXY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed127
+  name: I'm a Fool
+  source:
+    url: https://www.youtube.com/watch?v=fuaSAPZ64VA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed128
+  name: Mississippi Queen
+  source:
+    url: https://www.youtube.com/watch?v=VbP4qf8PjfI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed129
+  name: Just the Two of Us
+  source:
+    url: https://www.youtube.com/watch?v=6POZlJAZsok
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed130
+  name: DisOrDat
+  source:
+    url: https://www.youtube.com/watch?v=jRQpvB8fg1I
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed131
+  name: Thriller
+  source:
+    url: https://www.youtube.com/watch?v=Yh1ZDa-rinM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed132
+  name: Razormind
+  source:
+    url: https://www.youtube.com/watch?v=_Fl_LJBixfg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed133
+  name: Love Train
+  source:
+    url: https://www.youtube.com/watch?v=CycuOJZbRvQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos101
+  name: April 21
+  source:
+    url: https://www.youtube.com/watch?v=uxO9px_3Ybo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos102
+  name: Hymn of April
+  source:
+    url: https://www.youtube.com/watch?v=KJDD6ZDziJU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos103
+  name: Barracuda
+  source:
+    url: https://www.youtube.com/watch?v=PeMvMNpvB5M
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos104
+  name: Sinovi Drine
+  source:
+    url: https://www.youtube.com/watch?v=O9sBmS8bZ6s
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos105
+  name: March of Resadiye
+  source:
+    url: https://www.youtube.com/watch?v=nAwj9TcyGfE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos106
+  name: March of Kemal Ataturk
+  source:
+    url: https://www.youtube.com/watch?v=uzfXZfewqe4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos107
+  name: Rain
+  source:
+    url: https://www.youtube.com/watch?v=RD5b_0QB0wI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos108
+  name: Sing, Sing, Sing
+  source:
+    url: https://www.youtube.com/watch?v=G7fARRnhWSg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos109
+  name: Civilization
+  source:
+    url: https://www.youtube.com/watch?v=zndUfV1i1Co
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos110
+  name: Push it to the Limit
+  source:
+    url: https://www.youtube.com/watch?v=9D-QD_HIfjA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos111
+  name: Anything Goes
+  source:
+    url: https://www.youtube.com/watch?v=dxCjpEc66Dw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos112
+  name: I Need a Hero
+  source:
+    url: https://www.youtube.com/watch?v=kPZRb4_G7sc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos113
+  name: A Little Less Conversation
+  source:
+    url: https://www.youtube.com/watch?v=KThbNtVCFs4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos114
+  name: Baby Blue
+  source:
+    url: https://www.youtube.com/watch?v=33oAuvbRg-c
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos115
+  name: Song of Homeland Defense
+  source:
+    url: https://www.youtube.com/watch?v=sfrMAACewA8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos116
+  name: Song of Anti-Communism
+  source:
+    url: https://www.youtube.com/watch?v=ldJqUSvgnIU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos117
+  name: Song of Homeland Defense
+  source:
+    url: https://www.youtube.com/watch?v=sfrMAACewA8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Orv101
+  name: MyonMyonMyonMyonMyonMyon!
+  source:
+    url: https://www.youtube.com/watch?v=HL4M1viB3jE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue101
+  name: Prepare for Escape
+  source:
+    url: https://www.youtube.com/watch?v=00xprBmokcI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue102
+  name: Edge of Darkness
+  source:
+    url: https://www.youtube.com/watch?v=IneAXlx8MO8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue103
+  name: The Face of Genocide
+  source:
+    url: https://www.youtube.com/watch?v=YxQ6sHrNUa8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue104
+  name: Power Fantasy of The Dark Gods
+  source:
+    url: https://www.youtube.com/watch?v=BLNCJgrkCjU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue105
+  name: Questionable Ethics
+  source:
+    url: https://www.youtube.com/watch?v=QJLvM0WgpFI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue106
+  name: Ford Focus
+  source:
+    url: https://www.youtube.com/watch?v=1CguhVwq7_E
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite101
+  name: The Connector
+  source:
+    url: https://www.youtube.com/watch?v=Y008cxVH5TU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite102
+  name: Tick Tock
+  source:
+    url: https://www.youtube.com/watch?v=Wit0ujbePvk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite103
+  name: Map Muzzak
+  source:
+    url: https://www.youtube.com/watch?v=1GJw7x7rhOw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite104
+  name: A Real Hero
+  source:
+    url: https://www.youtube.com/watch?v=-DSVDcw6iW8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Alex101
+  name: Netzach battle 2
+  source:
+    url: https://www.youtube.com/watch?v=rGdniAMtzkU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari101
+  name: Lonely Storm
+  source:
+    url: https://www.youtube.com/watch?v=rz3MmAvOhOQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari102
+  name: TNT
+  source:
+    url: https://www.youtube.com/watch?v=k2rDbRUDkds
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed134
+  name: House Building Theme
+  source:
+    url: https://www.youtube.com/watch?v=j8068ZrwicQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed135
+  name: Credits Closing Theme
+  source:
+    url: https://www.youtube.com/watch?v=LkZzRXqGB9c
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed136
+  name: Запомню
+  source:
+    url: https://www.youtube.com/watch?v=Df4KbfxxnM4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed137
+  name: Nostalgia
+  source:
+    url: https://www.youtube.com/watch?v=PjOdqNRiCbI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed138
+  name: Welcome to the Internet
+  source:
+    url: https://www.youtube.com/watch?v=k1BneeJTDcU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed139
+  name: Epilogue
+  source:
+    url: https://www.youtube.com/watch?v=hBJbitZwlws
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed140
+  name: John Marston
+  source:
+    url: https://www.youtube.com/watch?v=nMAaG-9qhS8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed141
+  name: Tractor Anthem
+  source:
+    url: https://www.youtube.com/watch?v=8u5ilWxXe1I
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed142
+  name: Baby I'm Yours
+  source:
+    url: https://www.youtube.com/watch?v=3vVSBLkpO-8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed143
+  name: Freaks
+  source:
+    url: https://www.youtube.com/watch?v=cYT325Fe9zU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed144
+  name: Notion
+  source:
+    url: https://www.youtube.com/watch?v=3vEiqil5d3Q
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed145
+  name: The Perfect Girl
+  source:
+    url: https://www.youtube.com/watch?v=W5Sq71VTJ9Q
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed146
+  name: Homelander Theme
+  source:
+    url: https://www.youtube.com/watch?v=a_cOaRNqjvQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed147
+  name: A Message
+  source:
+    url: https://www.youtube.com/watch?v=LfX6JxfND44
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed148
+  name: A Train
+  source:
+    url: https://www.youtube.com/watch?v=IbdgL9T5eg4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed149
+  name: Mice On Venus
+  source:
+    url: https://www.youtube.com/watch?v=T5-faDLv1Vs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed150
+  name: Risk Of Rain 2
+  source:
+    url: https://www.youtube.com/watch?v=RUN6Kqd9xgs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed151
+  name: Galacticraft
+  source:
+    url: https://www.youtube.com/watch?v=NVxOR9xEy0o
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed152
+  name: The Gauntlet
+  source:
+    url: https://www.youtube.com/watch?v=EPhVCcHhqaI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed153
+  name: Further
+  source:
+    url: https://www.youtube.com/watch?v=hYK0MyQnrMg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos118
+  name: Bajtars
+  source:
+    url: https://www.youtube.com/watch?v=OUpbwBQ3qCg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos119
+  name: Bosanska Artiljerija
+  source:
+    url: https://www.youtube.com/watch?v=GW6GSa14xXI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos120
+  name: Ustaška se Vojska Diže
+  source:
+    url: https://www.youtube.com/watch?v=XqXLgU26QaY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos121
+  name: Lijo, Lisice, Zar Te Boli Glava
+  source:
+    url: https://www.youtube.com/watch?v=mv93FQi-Qpw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos122
+  name: Remove Chetnik
+  source:
+    url: https://www.youtube.com/watch?v=5BYo4iN04ps
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos123
+  name: We've Gotta Get Out of This Place
+  source:
+    url: https://www.youtube.com/watch?v=wJVpihgwE18
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos124
+  name: Run Through The Jungle
+  source:
+    url: https://www.youtube.com/watch?v=i3tvaSSJoyI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos125
+  name: STALKER Duty Radio
+  source:
+    url: https://www.youtube.com/watch?v=uE0bTuR-X1c
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos126
+  name: STALKER Clear Sky Radio
+  source:
+    url: https://www.youtube.com/watch?v=qY725AQDLZg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos127
+  name: STALKER Loner Radio
+  source:
+    url: https://www.youtube.com/watch?v=2yn9Idalbm8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos128
+  name: Le Perv
+  source:
+    url: https://www.youtube.com/watch?v=RYtVf0wvPpc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos129
+  name: Break The Rules
+  source:
+    url: https://www.youtube.com/watch?v=p4Z96WwZrL0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos130
+  name: Roller Mobster
+  source:
+    url: https://www.youtube.com/watch?v=qFfybn_W8Ak
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos131
+  name: The Epic of Gilgamesh
+  source:
+    url: https://www.youtube.com/watch?v=QUcTsFe1PVs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos132
+  name: Portal Radio Tune
+  source:
+    url: https://www.youtube.com/watch?v=mD3v1B_aXw0&t
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos133
+  name: Still Alive
+  source:
+    url: https://www.youtube.com/watch?v=Y6ljFaKRTrI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos134
+  name: Gimme! Gimme! Gimme!
+  source:
+    url: https://www.youtube.com/watch?v=XEjLoHdbVeE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos135
+  name: Over There!
+  source:
+    url: https://www.youtube.com/watch?v=15R6Qv5PZqE&t
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos136
+  name: Ain't I Right
+  source:
+    url: https://www.youtube.com/watch?v=vvzmBhCpWvA 
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Chronos137
+  name: R U Mine
+  source:
+    url: https://www.youtube.com/watch?v=ngzC_8zqInk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue107
+  name: Sins of The Father
+  source:
+    url: https://www.youtube.com/watch?v=y8VfziFZMGY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue108
+  name: The End of an Era
+  source:
+    url: https://www.youtube.com/watch?v=gUfd1k2d8Pw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue109
+  name: Denial
+  source:
+    url: https://www.youtube.com/watch?v=wq9deTUvcy0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue110
+  name: Intermezzo
+  source:
+    url: https://www.youtube.com/watch?v=3iUpjiUBYCc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue111
+  name: Left Behind
+  source:
+    url: https://www.youtube.com/watch?v=Krg0yrh8o0M
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue112
+  name: Dark Horizon
+  source:
+    url: https://www.youtube.com/watch?v=xwAheN8OanY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue113
+  name: Factory
+  source:
+    url: https://www.youtube.com/watch?v=cuU5Dbs1rMY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue114
+  name: Credits, Mesa
+  source:
+    url: https://www.youtube.com/watch?v=wtr--EJKAZE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue115
+  name: Dawn Of A New Time
+  source:
+    url: https://www.youtube.com/watch?v=-mta8kdXWSA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue116
+  name: Rummage Exploit
+  source:
+    url: https://www.youtube.com/watch?v=pTbubmg4OhM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue117
+  name: Despicable Me
+  source:
+    url: https://www.youtube.com/watch?v=axbUCR1nKRA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue118
+  name: Colliding Stars
+  source:
+    url: https://www.youtube.com/watch?v=zidDFA0oDFI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue119
+  name: Fallen Kingdom
+  source:
+    url: https://www.youtube.com/watch?v=I-sH53vXP2A
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue120
+  name: He is the Light in my Darkness
+  source:
+    url: https://www.youtube.com/watch?v=bn9LKRvPE4E
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue121
+  name: The Essence of Machines
+  source:
+    url: https://www.youtube.com/watch?v=9POpD1Lp2_I
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue122
+  name: Everdusk
+  source:
+    url: https://www.youtube.com/watch?v=NpeLyUGvxtY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue123
+  name: Killing Machine
+  source:
+    url: https://www.youtube.com/watch?v=_UDgW-U45XY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue124
+  name: LTT
+  source:
+    url: https://www.youtube.com/watch?v=ieHv_bJ7mog
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue125
+  name: As Above So Below
+  source:
+    url: https://www.youtube.com/watch?v=_HHUtBrNOm0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Blue126
+  name: The Complex
+  source:
+    url: https://www.youtube.com/watch?v=nArdZ6OcxQY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite105
+  name: Thé à la Menthe Instrumental
+  source:
+    url: https://www.youtube.com/watch?v=DPvbet4vAWs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite106
+  name: Tainted Love
+  source:
+    url: https://www.youtube.com/watch?v=iNrHoGi4E6w
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite107
+  name: Your Love
+  source:
+    url: https://www.youtube.com/watch?v=1FOJAO_do7M
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite108
+  name: I Still Can't Sleep
+  source:
+    url: https://www.youtube.com/watch?v=gJ9SvXXgnE0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite109
+  name: Chamber Of Reflection
+  source:
+    url: https://www.youtube.com/watch?v=FhJGUoHLGJQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite110
+  name: Strawberry Guy Instrumental
+  source:
+    url: https://www.youtube.com/watch?v=HiudHqdId7E
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite111
+  name: Take On Me
+  source:
+    url: https://www.youtube.com/watch?v=WC2TWAmw2FM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite112
+  name: Outro
+  source:
+    url: https://www.youtube.com/watch?v=xY1BfWQWqDk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite113
+  name: Actors Revolt
+  source:
+    url: https://www.youtube.com/watch?v=YfDIl8ZT0WU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite114
+  name: Last Christmas
+  source:
+    url: https://www.youtube.com/watch?v=wgJI0SMYNsE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite115
+  name: Pogo
+  source:
+    url: https://www.youtube.com/watch?v=cZvt23iBVVo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite116
+  name: Do Anything You Wanna Do
+  source:
+    url: https://www.youtube.com/watch?v=BtYuDcf5R4w
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite117
+  name: Buy Mode 1
+  source:
+    url: https://www.youtube.com/watch?v=399YneFTwh0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite118
+  name: Run To You
+  source:
+    url: https://www.youtube.com/watch?v=_g2g2v4QiZM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite119
+  name: Self Control
+  source:
+    url: https://www.youtube.com/watch?v=Ucmo6hDZRSY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite120
+  name: Fired Up
+  source:
+    url: https://www.youtube.com/watch?v=YkU5pskq1LM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite121
+  name: LEVEL
+  source:
+    url: https://www.youtube.com/watch?v=Jjv_WuqBRr4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite122
+  name: a white orb
+  source:
+    url: https://www.youtube.com/watch?v=2lEpY6hIg6w
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite123
+  name: dietz nuts dunk
+  source:
+    url: https://www.youtube.com/watch?v=DEwGZyrAnRA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Graphite124
+  name: manscaped balls ad
+  source:
+    url: https://www.youtube.com/watch?v=u207z-pAi6U
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari103
+  name: Arabic Nokia
+  source:
+    url: https://www.youtube.com/watch?v=7qKlU2a9-Zg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari104
+  name: Dee's Big Nuts
+  source:
+    url: https://www.youtube.com/watch?v=RM_3OQbHDD4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari105
+  name: Beware the Forest's Mushrooms
+  source:
+    url: https://www.youtube.com/watch?v=NFhPWM6qqgg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari106
+  name: Squid Game Vs. MrBeast
+  source:
+    url: https://www.youtube.com/watch?v=4C2RE47ntms
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari107
+  name: Light The Fire Up In The Night
+  source:
+    url: https://www.youtube.com/watch?v=zcR9bXY3s8Q
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari108
+  name: Wait and See
+  source:
+    url: https://www.youtube.com/watch?v=pc2jmxh8kFA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari109
+  name: Packet Power
+  source:
+    url: https://www.youtube.com/watch?v=P2NAxoFkqoE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari110
+  name: Opening Theme
+  source:
+    url: https://www.youtube.com/watch?v=62k3FlnfQEU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari111
+  name: Hip Hop
+  source:
+    url: https://www.youtube.com/watch?v=55BgZ1IORxw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari112
+  name: Gothic
+  source:
+    url: https://www.youtube.com/watch?v=Vam2hidA2nk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari113
+  name: Insomnia
+  source:
+    url: https://www.youtube.com/watch?v=YMJBMjergiI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari114
+  name: Ash for the Altar
+  source:
+    url: https://www.youtube.com/watch?v=KXei6gL5TYg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari115
+  name: Trap Anthem
+  source:
+    url: https://www.youtube.com/watch?v=Oxr7OQKoY8Q
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari116
+  name: Weezer
+  source:
+    url: https://www.youtube.com/watch?v=Kjr7US2Z9aY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari117
+  name: I'd Like To Teach The World To Fap
+  source:
+    url: https://www.youtube.com/watch?v=QEPHLPmt914
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari118
+  name: Screw The Nether
+  source:
+    url: https://www.youtube.com/watch?v=gqELqRCnW6g
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari119
+  name: Bumble Bee
+  source:
+    url: https://www.youtube.com/watch?v=UdXQZw2CF0g
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari120
+  name: Gotta Smash 'Em All!
+  source:
+    url: https://www.youtube.com/watch?v=4YSVyA_CgKA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari121
+  name: Anime Thighs
+  source:
+    url: https://www.youtube.com/watch?v=LsALfYB3XRQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Mari122
+  name: Caramelldansen
+  source:
+    url: https://www.youtube.com/watch?v=tVoKUqlGdh4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2

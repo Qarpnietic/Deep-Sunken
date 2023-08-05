@@ -1,3 +1,4 @@
+
 - identifier: blank
   name: Blank Tape
   source: ./source/original_audio/blank.ogg
@@ -12,7 +13,7 @@
   no_of_uses: 12
   buffs: False
   buff_multiplier: 0.5
-
+  
 - identifier: LayerCake
   name: Layer Cake
   source:
@@ -4427,8 +4428,8 @@
   multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
   sold: [false, false, false, true, false]  # outpost, city, research, military, mine
   no_of_uses: 5
-buffs: False 
-buff_multiplier: 0.2
+  buffs: False 
+  buff_multiplier: 0.2
 - identifier: Racc114
   name: Sergio Mendes, Brasil '66 - The Joker (Racctastic Tunes Vol. 1, #14)
   source:
@@ -4841,7 +4842,7 @@ buff_multiplier: 0.2
   note: ""
   icon_resize: sharp
   spawn:
- - location: abandonedcrewcab
+  - location: abandonedcrewcab
     probability: 0.05
   price: 200
   multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine

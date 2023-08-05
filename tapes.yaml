@@ -4195,3 +4195,657 @@
   no_of_uses: 5
   buffs: False 
   buff_multiplier: 0.2
+- identifier: Racc101
+  name: Maysa - Meu Mundo Caiu (Racctastic Tunes Vol. 1, 1)
+  source:
+    url: https://www.youtube.com/watch?v=f_2MtwlnLg0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc102
+  name: Maysa - Voce E Eu (Racctastic Tunes Vol. 1, 2)
+  source:
+    url: https://www.youtube.com/watch?v=eAcxCRlmST0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc103
+  name: Maysa - Eu E O Meu Coracao (Racctastic Tunes Vol. 1, 3)
+  source:
+    url: https://www.youtube.com/watch?v=hzHPH9Z1-bg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc104
+  name: Joao and Astrud Gilberto, Stan Getz - Corcovado (Racctastic Tunes Vol. 1, #4)
+  source:
+    url: https://www.youtube.com/watch?v=W-YnyZG8fNU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc105
+  name: Joao Gilberto, Stan Getz - Para Machucar Meu Coracao (Racctastic Tunes Vol. 1, #5)
+  source:
+    url: https://www.youtube.com/watch?v=Lt6rsHa88t0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc106
+  name: Joao Gilberto, Stan Getz - Doralice (Racctastic Tunes Vol. 1, #6)
+  source:
+    url: https://www.youtube.com/watch?v=hU3IUUIZxEg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc107
+  name: Joao Gilberto - Louco (Racctastic Tunes Vol. 1, #7)
+  source:
+    url: https://www.youtube.com/watch?v=XPm96TbeFvE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc108
+  name: Chico Buarque - Construcao (Racctastic Tunes Vol. 1, #8)
+  source:
+    url: https://www.youtube.com/watch?v=wBfVsucRe1w
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc109
+  name: Chico Buarque - Cotidiano (Racctastic Tunes Vol. 1, #9)
+  source:
+    url: https://www.youtube.com/watch?v=dHYOVuq_Fco
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc110
+  name: Elis Regina, Adoniran Barbosa - Tiro Ao Alvaro (Racctastic Tunes Vol. 1, #10)
+  source:
+    url: https://www.youtube.com/watch?v=K0FwvHTUUao
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc111
+  name: Adoniran Barbosa - Samba do Arnesto (Racctastic Tunes Vol. 1, #11)
+  source:
+    url: https://www.youtube.com/watch?v=TH5zxAiq0k8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc112
+  name: Adoniran Barbosa - Vide Verso Meu Endereco (Racctastic Tunes Vol. 1, #12)
+  source:
+    url: https://www.youtube.com/watch?v=wVL4NFeXfzo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc113
+  name: Adoniran Barbosa - Deus Te Abencoe (Racctastic Tunes Vol. 1, #13)
+  source:
+    url: https://www.youtube.com/watch?v=KjCWAJ0u8sQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+buffs: False 
+buff_multiplier: 0.2
+- identifier: Racc114
+  name: Sergio Mendes, Brasil '66 - The Joker (Racctastic Tunes Vol. 1, #14)
+  source:
+    url: https://www.youtube.com/watch?v=WMonbuGPBnY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc115
+  name: Sergio Mendes, Brasil '66 - Agua de Beber (Racctastic Tunes Vol. 1, #15)
+  source:
+    url: https://www.youtube.com/watch?v=ifEPP4WliR0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc116
+  name: Sergio Mendes, Brasil '66 - Berimbau (Racctastic Tunes Vol. 1, #16)
+  source:
+    url: https://www.youtube.com/watch?v=u4OzIP4MFqo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc117
+  name: Sergio Mendes, Brasil '66 - Cinnamon And Clove (Racctastic Tunes Vol. 1, #17)
+  source:
+    url: https://www.youtube.com/watch?v=qdOmscoIibo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc118
+  name: Sergio Mendes, Brasil '66 - Constant Rain (Racctastic Tunes Vol. 1, #18)
+  source:
+    url: https://www.youtube.com/watch?v=5IRVI7N710k
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc119
+  name: Sergio Mendes, Brasil '66 - Wave (Racctastic Tunes Vol. 1, #19)
+  source:
+    url: https://www.youtube.com/watch?v=-O-ZHufpcVI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc120
+  name: Sergio Mendes, Brasil '66 - Roda (Racctastic Tunes Vol. 1, #20)
+  source:
+    url: https://www.youtube.com/watch?v=nrVnYSZR0DE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc121
+  name: Elis Regina, Tom Jobim - Triste (Racctastic Tunes Vol. 1, #21)
+  source:
+    url: https://www.youtube.com/watch?v=pNWpquMzJSY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc122
+  name: Miucha, Tom Jobim - Pela Luz Dos Olhos Teus (Racctastic Tunes Vol. 1, #22)
+  source:
+    url: https://www.youtube.com/watch?v=5pyk-DmkBsA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc123
+  name: Dorival Caymmi - O Que E Que A Baiana Tem? (Racctastic Tunes Vol. 1, #23)
+  source:
+    url: https://www.youtube.com/watch?v=gjIq4BJtLOM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc124
+  name: Dorival Caymmi - A Jangada Voltou So (Racctastic Tunes Vol. 1, #24)
+  source:
+    url: https://www.youtube.com/watch?v=f0YB1d5v5LY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc125
+  name: Marcos Valle - Os Grilos (Racctastic Tunes Vol. 1, #25)
+  source:
+    url: https://www.youtube.com/watch?v=RR7Sq96mX1Q
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc126
+  name: Marcos Valle - Bicicleta (Racctastic Tunes Vol. 1, #26)
+  source:
+    url: https://www.youtube.com/watch?v=XFTN50K56mc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc127
+  name: Marcos Valle - Tudo De Voce (Racctastic Tunes Vol. 1, #27)
+  source:
+    url: https://www.youtube.com/watch?v=q7u0pzJwmzE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc128
+  name: Marcos Valle - Ta Tudo Bem (Racctastic Tunes Vol. 1, #28)
+  source:
+    url: https://www.youtube.com/watch?v=idChIVPPFLs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Racc129
+  name: Djavan - Lilas (Racctastic Tunes Vol. 1, #29)
+  source:
+    url: https://www.youtube.com/watch?v=wQH6OQQ5RjQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+- identifier: Racc130
+  name: Djavan, Stevie Wonder - Samurai (Racctastic Tunes Vol. 1, #30)
+  source:
+    url: https://www.youtube.com/watch?v=3-qwqrQXsXQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Chronos138
+  name: Altaylardan Tunaya - ati2x06
+  source:
+    url: https://www.youtube.com/watch?v=p1JgHB-uXcU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Chronos139
+  name: Avanti ragazzi di Pest
+  source:
+    url: https://www.youtube.com/watch?v=Vgwrx-xl9KY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Chronos140
+  name: Avanti ragazzi di Buda
+  source:
+    url: https://www.youtube.com/watch?v=0cGNnFj_jvw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Blue127
+  name: The Fire is Gone
+  source:
+    url: https://www.youtube.com/watch?v=o1f8lf9qBr8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Blue128
+  name: Heaven Pierce Her - Lakeside Songbook (Dawn)
+  source:
+    url: https://www.youtube.com/watch?v=o1f8lf9qBr8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Mari123
+  name: HATEFUL - Health
+  source:
+    url: https://www.youtube.com/watch?v=SXjZx3cCVVA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+ - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2

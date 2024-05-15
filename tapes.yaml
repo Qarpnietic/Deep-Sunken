@@ -1175,7 +1175,7 @@
 - identifier: Sharks
   name: Sharks
   source:
-    url: https://www.youtube.com/watch?v=E5HIDxITIYI
+    url: https://www.youtube.com/watch?v=Z4S6Yl7l_Qo
     start: 00:00:00
     end: -1
     volume: 0
@@ -1892,24 +1892,6 @@
   no_of_uses: 5
   buffs: False 
   buff_multiplier: 0.2
-- identifier: Chronos104
-  name: Sinovi Drine
-  source:
-    url: https://www.youtube.com/watch?v=O9sBmS8bZ6s
-    start: 00:00:00
-    end: -1
-    volume: 0
-  note: ""
-  icon_resize: sharp
-  spawn:
-    - location: abandonedcrewcab
-      probability: 0.05
-  price: 200
-  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
-  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
-  no_of_uses: 5
-  buffs: False 
-  buff_multiplier: 0.2
 - identifier: Chronos105
   name: March of Resadiye
   source:
@@ -2144,24 +2126,6 @@
   no_of_uses: 5
   buffs: False 
   buff_multiplier: 0.2
-- identifier: Orv101
-  name: MyonMyonMyonMyonMyonMyon!
-  source:
-    url: https://www.youtube.com/watch?v=HL4M1viB3jE
-    start: 00:00:00
-    end: -1
-    volume: 0
-  note: ""
-  icon_resize: sharp
-  spawn:
-    - location: abandonedcrewcab
-      probability: 0.05
-  price: 200
-  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
-  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
-  no_of_uses: 5
-  buffs: False 
-  buff_multiplier: 0.2
 - identifier: Blue101
   name: Prepare for Escape
   source:
@@ -2274,24 +2238,6 @@
   name: The Connector
   source:
     url: https://www.youtube.com/watch?v=Y008cxVH5TU
-    start: 00:00:00
-    end: -1
-    volume: 0
-  note: ""
-  icon_resize: sharp
-  spawn:
-    - location: abandonedcrewcab
-      probability: 0.05
-  price: 200
-  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
-  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
-  no_of_uses: 5
-  buffs: False 
-  buff_multiplier: 0.2
-- identifier: Graphite102
-  name: Tick Tock
-  source:
-    url: https://www.youtube.com/watch?v=Wit0ujbePvk
     start: 00:00:00
     end: -1
     volume: 0
@@ -2756,6 +2702,42 @@
   no_of_uses: 5
   buffs: False 
   buff_multiplier: 0.2
+- identifier: Ed154
+  name: Clinic
+  source:
+    url: https://www.youtube.com/watch?v=m-4u0WrgKPA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+- identifier: Ed155
+  name: Lucky Ganesh
+  source:
+    url: https://www.youtube.com/watch?v=D76uekEm__U
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+    - location: abandonedcrewcab
+      probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
 - identifier: Chronos118
   name: Bajtars
   source:
@@ -2813,25 +2795,8 @@
 - identifier: Chronos121
   name: Lijo, Lisice, Zar Te Boli Glava
   source:
-    url: https://www.youtube.com/watch?v=mv93FQi-Qpw
-    start: 00:00:00
-    end: -1
-    volume: 0
-  note: ""
-  icon_resize: sharp
-  spawn:
-    - location: abandonedcrewcab
-      probability: 0.05
-  price: 200
-  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
-  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
-  no_of_uses: 5
-  buffs: False 
-  buff_multiplier: 0.2
-- identifier: Chronos122
-  name: Remove Chetnik
-  source:
-    url: https://www.youtube.com/watch?v=5BYo4iN04ps
+    url: https://www.youtube.com/watch?v=YXHuvYkXiaA
+
     start: 00:00:00
     end: -1
     volume: 0
@@ -3281,7 +3246,7 @@
 - identifier: Blue116
   name: Rummage Exploit
   source:
-    url: https://www.youtube.com/watch?v=pTbubmg4OhM
+    url: https://www.youtube.com/watch?v=JNs0VzsniOU
     start: 00:00:00
     end: -1
     volume: 0
@@ -3804,24 +3769,6 @@
   name: dietz nuts dunk
   source:
     url: https://www.youtube.com/watch?v=DEwGZyrAnRA
-    start: 00:00:00
-    end: -1
-    volume: 0
-  note: ""
-  icon_resize: sharp
-  spawn:
-    - location: abandonedcrewcab
-      probability: 0.05
-  price: 200
-  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
-  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
-  no_of_uses: 5
-  buffs: False 
-  buff_multiplier: 0.2
-- identifier: Graphite124
-  name: manscaped balls ad
-  source:
-    url: https://www.youtube.com/watch?v=u207z-pAi6U
     start: 00:00:00
     end: -1
     volume: 0
@@ -4740,7 +4687,7 @@
 - identifier: Chronos138
   name: Altaylardan Tunaya - ati2x06
   source:
-    url: https://www.youtube.com/watch?v=p1JgHB-uXcU
+    url: https://www.youtube.com/watch?v=RdZyLD8fqnw
     start: 00:00:00
     end: -1
     volume: 0

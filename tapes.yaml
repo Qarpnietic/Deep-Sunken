@@ -262,9 +262,9 @@
   buff_multiplier: 0.2
 
 - identifier: Chronos1
-  name: Free Bird Guitar Solo
+  name: Osmaniye Marşı
   source: 
-    url: https://www.youtube.com/watch?v=3GSbJkU9Lmw
+    url: https://www.youtube.com/watch?v=Brj5Meihr0A
     start: 00:00:00
     end: -1
     volume: 0
@@ -414,9 +414,9 @@
   buff_multiplier: 0.2
 
 - identifier: Chronos5
-  name: The Great Homeland
+  name: Osmanlı Sergi Marşı
   source:
-    url: https://www.youtube.com/watch?v=0iGHOaMEVQk
+    url: https://www.youtube.com/watch?v=26oQpCSXsug
     start: 00:00:00
     end: -1
     volume: 0
@@ -2235,9 +2235,9 @@
   buffs: False 
   buff_multiplier: 0.2
 - identifier: Blue105
-  name: Questionable Ethics
+  name: Wandering Skylines
   source:
-    url: https://www.youtube.com/watch?v=QJLvM0WgpFI
+    url: https://www.youtube.com/watch?v=_YpYfmKBdxQ
     start: 00:00:00
     end: -1
     volume: 0
@@ -4832,6 +4832,25 @@
   buffs: False 
   buff_multiplier: 0.2
 
+- identifier: Blue129
+  name: CentaurCity.mp4
+  source:
+    url: https://www.youtube.com/watch?v=YukxO7uYUxs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
 - identifier: Mari123
   name: HATEFUL - Health
   source:
@@ -4850,3 +4869,42 @@
   no_of_uses: 5
   buffs: False 
   buff_multiplier: 0.2
+
+- identifier: Mari124
+  name: Grade 9 Fixer
+  source:
+    url: https://www.youtube.com/watch?v=jVzCXYBgBrM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+
+- identifier: Mari125
+  name: Lobotomy Corporation - Second Trumpet
+  source:
+    url: https://www.youtube.com/watch?v=pe3h62MrlPE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]              # outpost, city, research, military, mine
+  sold: [false, false, false, true, false]  # outpost, city, research, military, mine
+  no_of_uses: 5
+  buffs: False 
+  buff_multiplier: 0.2
+

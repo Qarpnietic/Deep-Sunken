@@ -4542,3 +4542,1903 @@
   no_of_uses: 5
   buffs: False 
   buff_multiplier: 0.2
+
+- identifier: Racc001
+  name: (What Would You Do if You Were a) Glass Onion
+  source:
+    url: https://www.youtube.com/watch?v=jGhcsuqNIOc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc002
+  name: Octopus's Garden
+  source:
+    url: https://www.youtube.com/watch?v=De1LCQvbqV4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc003
+  name: Yellow Submarine
+  source:
+    url: https://www.youtube.com/watch?v=j_JaDDcyIIU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc004
+  name: Rocky Raccoon
+  source:
+    url: https://www.youtube.com/watch?v=y7WBngMzqS4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc005
+  name: Here Comes The Sun
+  source:
+    url: https://www.youtube.com/watch?v=GKdl-GCsNJ0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc006
+  name: Come Together
+  source:
+    url: https://www.youtube.com/watch?v=oolpPmuK2I8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc007
+  name: Something
+  source:
+    url: https://www.youtube.com/watch?v=uXRvmkQLyTc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc008
+  name: You Are in My Vision
+  source:
+    url: https://www.youtube.com/watch?v=Zc-SUX5FDIo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc009
+  name: Praying to the Aliens
+  source:
+    url: https://www.youtube.com/watch?v=TpyjlVO6gRI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc010
+  name: Are 'Friends' Electric?
+  source:
+    url: https://www.youtube.com/watch?v=1snv-0jCiWY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc011
+  name: Cars
+  source:
+    url: https://www.youtube.com/watch?v=LrjM8Fi7J58
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc012
+  name: M.E.
+  source:
+    url: https://www.youtube.com/watch?v=-C_ijHitM-Q
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc013
+  name: Ice Age
+  source:
+    url: https://www.youtube.com/watch?v=cDrBTr5HOrI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc014
+  name: The Sound of Music
+  source:
+    url: https://www.youtube.com/watch?v=ikCXhkg_nsc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc015
+  name: The Only Mistake
+  source:
+    url: https://www.youtube.com/watch?v=J4RHLFSfD2A
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc016
+  name: Something Must Break
+  source:
+    url: https://www.youtube.com/watch?v=GSFhY2j0xjM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc017
+  name: Disorder
+  source:
+    url: https://www.youtube.com/watch?v=5BIElTtN6Fs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc018
+  name: Interzone
+  source:
+    url: https://www.youtube.com/watch?v=WHg4jVrbg60
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc019
+  name: Shadowplay
+  source:
+    url: https://www.youtube.com/watch?v=Dvgbk4MkHF8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc020
+  name: Transmission
+  source:
+    url: https://www.youtube.com/watch?v=Kx3EqNYQklg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc021
+  name: Perdidos No Espaço
+  source:
+    url: https://www.youtube.com/watch?v=36mK0hsbFfQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc022
+  name: Ainda É Cedo
+  source:
+    url: https://www.youtube.com/watch?v=roxJ912UAwU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc023
+  name: Será
+  source:
+    url: https://www.youtube.com/watch?v=2CnxonDrhdE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc024
+  name: Soldados
+  source:
+    url: https://www.youtube.com/watch?v=jYD_aHDwqoc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc025
+  name: Fábrica
+  source:
+    url: https://www.youtube.com/watch?v=0pWkWvjCNvo
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc026
+  name: Índios
+  source:
+    url: https://www.youtube.com/watch?v=wTDrxNCYffg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc027
+  name: Ode to Viceroy
+  source:
+    url: https://www.youtube.com/watch?v=oVctwNqAUrs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc028
+  name: The Stars Keep On Calling My Name
+  source:
+    url: https://www.youtube.com/watch?v=9JAGckajLns
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc029
+  name: Blue Boy
+  source:
+    url: https://www.youtube.com/watch?v=GXuIWm12S24
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc030
+  name: Brother
+  source:
+    url: https://www.youtube.com/watch?v=ynbtf2fJ2JA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc031
+  name: Passing Out Pieces
+  source:
+    url: https://www.youtube.com/watch?v=vnuJzaAUWgY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc032
+  name: Chamber of Reflection
+  source:
+    url: https://www.youtube.com/watch?v=pQsF3pzOc54
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc033
+  name: Moonlight on the River
+  source:
+    url: https://www.youtube.com/watch?v=1VYbKamjB-4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc034
+  name: Little Dogs March
+  source:
+    url: https://www.youtube.com/watch?v=H8qmPyQjVSk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc035
+  name: Subterranean Homesick Alien
+  source:
+    url: https://www.youtube.com/watch?v=_fTWmUlTEqE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc036
+  name: Man of War
+  source:
+    url: https://www.youtube.com/watch?v=d6UBb4f4imY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc037
+  name: Decks Dark
+  source:
+    url: https://www.youtube.com/watch?v=Del3C2W63Pk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc038
+  name: Ful Stop
+  source:
+    url: https://www.youtube.com/watch?v=NHDOk7lA53w
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc039
+  name: The Bends
+  source:
+    url: https://www.youtube.com/watch?v=K8z8hLvjb_U
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc040
+  name: Street Spirit (Fade Out)
+  source:
+    url: https://www.youtube.com/watch?v=2y6kop0VTXY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+  - identifier: Racc041
+  name: Sail To The Moon
+  source:
+    url: https://www.youtube.com/watch?v=INvrv9ppxvQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc042
+  name: Bodysnatchers
+  source:
+    url: https://www.youtube.com/watch?v=nIQxhSvSRnQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc043
+  name: Weird Fishes/Arpeggi
+  source:
+    url: https://www.youtube.com/watch?v=LUjGtyYEi90
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc044
+  name: (Nice Dream)
+  source:
+    url: https://www.youtube.com/watch?v=jIjTFt6XmFM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc045
+  name: 2 + 2 = 5
+  source:
+    url: https://www.youtube.com/watch?v=2w6kHS_IRrE
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc046
+  name: A Wolf At the Door
+  source:
+    url: https://www.youtube.com/watch?v=6isz01iv8Ls
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc047
+  name: The National Anthem
+  source:
+    url: https://www.youtube.com/watch?v=NfQD1QiQ9o4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc048
+  name: Everything In Its Right Place
+  source:
+    url: https://www.youtube.com/watch?v=NUnXxh5U25Y
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc049
+  name: Knives Out
+  source:
+    url: https://www.youtube.com/watch?v=jhsyc81VcB4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc050
+  name: Trans-Atlantic Drawl
+  source:
+    url: https://www.youtube.com/watch?v=9-8zVH35qc4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc051
+  name: Warning Sign
+  source:
+    url: https://www.youtube.com/watch?v=4U4EO2RQw1s
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc052
+  name: Take Me to the River
+  source:
+    url: https://www.youtube.com/watch?v=v4azbl96BJY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc053
+  name: Once In a Lifetime
+  source:
+    url: https://www.youtube.com/watch?v=fR0jgT9UX0Q
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc054
+  name: Psycho Killer
+  source:
+    url: https://www.youtube.com/watch?v=eauZzwt8Ci8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc055
+  name: Don't Worry About the Government
+  source:
+    url: https://www.youtube.com/watch?v=o-e3waxCNNs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc056
+  name: Sugar on My Tongue
+  source:
+    url: https://www.youtube.com/watch?v=vDVQO67NCZ4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc057
+  name: Stay Hungry
+  source:
+    url: https://www.youtube.com/watch?v=GwYANuN1N9U
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc058
+  name: This Must Be the Place (Naïve Melody)
+  source:
+    url: https://www.youtube.com/watch?v=3ffD8_-s1TQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc059
+  name: Wild Wild Life
+  source:
+    url: https://www.youtube.com/watch?v=NQNcpELgEWs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc060
+  name: A Clean Break (Let's Work)
+  source:
+    url: https://www.youtube.com/watch?v=-vhtCe4PmHA
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc061
+  name: Intro
+  source:
+    url: https://www.youtube.com/watch?v=Vfla7rHiHmg
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc062
+  name: Tessellate
+  source:
+    url: https://www.youtube.com/watch?v=uOpt3eUvQEU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc063
+  name: Breezeblocks
+  source:
+    url: https://www.youtube.com/watch?v=tGC9sHq1BwQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc064
+  name: Taro
+  source:
+    url: https://www.youtube.com/watch?v=v4ffyemvIjQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc065
+  name: The Actor
+  source:
+    url: https://www.youtube.com/watch?v=qc-gOX9bAb8
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc066
+  name: Left Hand Free
+  source:
+    url: https://www.youtube.com/watch?v=_b55PfbuQ_Q
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc067
+  name: U&ME
+  source:
+    url: https://www.youtube.com/watch?v=5unxPoI7DMs
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc068
+  name: Hard Drive Gold
+  source:
+    url: https://www.youtube.com/watch?v=cuEavXMItok
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc069
+  name: Undone (The Sweater Song)
+  source:
+    url: https://www.youtube.com/watch?v=mLawKw3Qgig
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc070
+  name: Tired Of Sex
+  source:
+    url: https://www.youtube.com/watch?v=THDc2MAMwok
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc071
+  name: Across The Sea
+  source:
+    url: https://www.youtube.com/watch?v=Rl089HxOPkw
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc072
+  name: Pink Triangle
+  source:
+    url: https://www.youtube.com/watch?v=v2vWDWxYJBc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc073
+  name: Island In The Sun
+  source:
+    url: https://www.youtube.com/watch?v=beX-9wW5rL0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc074
+  name: Keep Fishin'
+  source:
+    url: https://www.youtube.com/watch?v=jNj66k0WRk0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc075
+  name: Knights of Cydonia
+  source:
+    url: https://www.youtube.com/watch?v=oi3QmAmrG6M
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc076
+  name: Invincible
+  source:
+    url: https://www.youtube.com/watch?v=QX52_M4mbDY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc077
+  name: Space Dementia
+  source:
+    url: https://www.youtube.com/watch?v=IxVC8mdOeNQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc078
+  name: Futurism
+  source:
+    url: https://www.youtube.com/watch?v=KNJDprTjZ14
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc079
+  name: Time is Running Out
+  source:
+    url: https://www.youtube.com/watch?v=8eB2d_saQo4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc080
+  name: Butterflies & Hurricanes
+  source:
+    url: https://www.youtube.com/watch?v=Yt8I6RgNavc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc081
+  name: Sunburn
+  source:
+    url: https://www.youtube.com/watch?v=kNTLFuJk3SY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc082
+  name: Roxanne
+  source:
+    url: https://www.youtube.com/watch?v=fZheUzgIFEk
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc083
+  name: Next To You
+  source:
+    url: https://www.youtube.com/watch?v=QucmeFo-G_E
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc084
+  name: So Lonely
+  source:
+    url: https://www.youtube.com/watch?v=ewdBRb7RTNc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc085
+  name: Message In A Bottle
+  source:
+    url: https://www.youtube.com/watch?v=WMl1xKJeuuQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc086
+  name: The Bed's Too Big Without You
+  source:
+    url: https://www.youtube.com/watch?v=BW7pPGqHdYI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc087
+  name: Every Little Thing She Does Is Magic
+  source:
+    url: https://www.youtube.com/watch?v=VaPZDLfj4b0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc088
+  name: Man Overboard
+  source:
+    url: https://www.youtube.com/watch?v=f_6lN5hp_d0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc089
+  name: Atomic
+  source:
+    url: https://www.youtube.com/watch?v=3WnVleUijDM
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc090
+  name: Call Me
+  source:
+    url: https://www.youtube.com/watch?v=o3hHsVtqNFQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc091
+  name: Hanging On The Telephone
+  source:
+    url: https://www.youtube.com/watch?v=MA3_nHSfKV4
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc092
+  name: Crazy On You
+  source:
+    url: https://www.youtube.com/watch?v=EZ7inhwScSQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc093
+  name: Soul Of The Sea
+  source:
+    url: https://www.youtube.com/watch?v=rwCrfxetkQY
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc094
+  name: The Wolf
+  source:
+    url: https://www.youtube.com/watch?v=IirZxNXp_rU
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc095
+  name: Shell Shock
+  source:
+    url: https://www.youtube.com/watch?v=EsLBYp3VCiQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc096
+  name: Cook With Fire
+  source:
+    url: https://www.youtube.com/watch?v=EsLBYp3VCiQ
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc097
+  name: 2,000 Man
+  source:
+    url: https://www.youtube.com/watch?v=Z9SOteJezQI
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc098 
+  name: Creatures Of The Night
+  source:
+    url: https://www.youtube.com/watch?v=RC3v0jjf9no
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc099
+  name: War Machine
+  source:
+    url: https://www.youtube.com/watch?v=q08kDgsquOc
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
+
+- identifier: Racc100
+  name: I Was Made For Lovin' You
+  source:
+    url: https://www.youtube.com/watch?v=4b89j6IacN0
+    start: 00:00:00
+    end: -1
+    volume: 0
+  note: ""
+  icon_resize: sharp
+  spawn:
+  - location: abandonedcrewcab
+    probability: 0.05
+  price: 200
+  multipliers: [1, 1, 1, 1, 1]
+  sold: [false, false, false, true, false]
+  no_of_uses: 5
+  buffs: False
+  buff_multiplier: 0.2
